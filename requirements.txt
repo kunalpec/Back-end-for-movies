@@ -1,0 +1,7 @@
+django
+scikit-learn
+djangorestframework
+pandas
+numpy
+joblib
+google-api-python-client
